@@ -1,0 +1,17 @@
+body {
+    background-image: url(assets/fundopag.jpg);
+  background-size: cover;
+}
+
+#page {
+  box-sizing: border-box;
+  width: 1280px;
+  padding: 80px;
+  background-color: #F5F4F0;
+  border-radius: 48px; /*Não tinha borda no exemplo, mas achei que fica mais bonito com borda*/
+  margin: 88px auto;
+}
+
+img {
+  border-radius: 28px;
+} 
